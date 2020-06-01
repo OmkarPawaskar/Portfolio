@@ -1,0 +1,8 @@
++ react@16.13.1
+updated 1 package and audited 1660 packages in 71.396s
+
+59 packages are looking for funding
+  run `npm fund` for details
+
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
